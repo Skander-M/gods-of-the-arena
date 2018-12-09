@@ -1,0 +1,23 @@
+{
+  "name": "gods-of-the-arena",
+  "version": "1.0.0",
+  "description": "Full stack vue and express web application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skander-M/gods-of-the-arena.git"
+  },
+  "author": "Skander Meghirbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skander-M/gods-of-the-arena/issues"
+  },
+  "homepage": "https://github.com/Skander-M/gods-of-the-arena#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
